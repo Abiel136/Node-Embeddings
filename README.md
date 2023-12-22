@@ -8,9 +8,9 @@ The aim is community detection using Node2Vec combined with Leiden or Louvain. S
 
 It is very heavily based on the machinery of Word2Vec, which provides vector embeddings of words inside a text. This is then applied to nodes of a graph.
 
-1. Create the "text" - this is done via random walks on the graph of specified length
+1. Create the "text" - this is done via random walks on the graph of specified length.
 2. Apply Word2Vec on this new "text".
-3. Apply KMeans clustering on the vectors and create lots of small "communities"
+3. Apply KMeans clustering on the vectors and create lots of small "communities".
 4. Apply Leiden or Louivan with the found communities as the initial state.
 
 
