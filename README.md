@@ -21,6 +21,8 @@ More info can be found at :
 - Node2Vec: https://towardsdatascience.com/node2vec-explained-db86a319e9ab
 - Word2Vec: https://towardsdatascience.com/word2vec-explained-49c52b4ccb71
 - Leiden algorithm: https://arxiv.org/abs/1810.08473
+- A note on Modularity: https://en.wikipedia.org/wiki/Modularity_(networks)
+
 
 
 
