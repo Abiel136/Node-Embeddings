@@ -1,6 +1,6 @@
 # Node-Embeddings
 
-I provide a Python implentation of the idea found in : https://math.ryerson.ca/~pralat/papers/2023_community+embeddings-CN2022.pdf, (the code base is in Julia).
+I provide a Python implentation of the idea found in : https://math.ryerson.ca/~pralat/papers/2023_community+embeddings-CN2022.pdf (the code base is in Julia).
 
 The aim is community detection using Node2Vec combined with Leiden or Louvain. Some plots analysing the effectiveness of the method are also produced. 
 
