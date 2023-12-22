@@ -1,10 +1,10 @@
-# H1 Node-Embeddings
+# Node-Embeddings
 
 I provide a Python implentation of the idea found in : https://math.ryerson.ca/~pralat/papers/2023_community+embeddings-CN2022.pdf, (the code base is in Julia).
 
 The aim is community detection using Node2Vec combined with Leiden or Louvain. Some plots analysing the effectiveness of the method are also produced. 
 
-# H2 How does it work:
+## How does it work:
 
 It is very heavily based on the machinery of Word2Vec, which provides vector embeddings of words inside a text. This is then applied to nodes of a graph.
 
@@ -14,7 +14,7 @@ It is very heavily based on the machinery of Word2Vec, which provides vector emb
 4. Apply Leiden or Louivan with the found communities as the initial state.
 
 
-# H2 Information about methods:
+##  Information about methods:
 
 More info can be found at :
 
