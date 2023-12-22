@@ -18,9 +18,9 @@ It is very heavily based on the machinery of Word2Vec, which provides vector emb
 
 More info can be found at :
 
-- https://towardsdatascience.com/node2vec-explained-db86a319e9ab
-- https://towardsdatascience.com/word2vec-explained-49c52b4ccb71
-- https://arxiv.org/abs/1810.08473
+- Node2Vec: https://towardsdatascience.com/node2vec-explained-db86a319e9ab
+- Word2Vec: https://towardsdatascience.com/word2vec-explained-49c52b4ccb71
+- Leiden algorithm: https://arxiv.org/abs/1810.08473
 
 
 
